@@ -1,0 +1,23 @@
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    width: 15rem;
+    border-radius: 50%;
+}
+
+nav ul {
+    display: flex;
+    gap: 2rem
+}
+
+header {
+    display: flex;
+    gap: 2rem;
+}
